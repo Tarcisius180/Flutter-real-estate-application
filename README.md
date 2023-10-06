@@ -8,6 +8,9 @@ Normal users will be able to search and look through properties, make use of fin
 
 The real estate investors, they will have the ability to view the properties in thier porfolio, see the profit and loss which the property they have brings, edit thier profile, view alerts from thier property managers, view thier favourite properties, view thier finacial report that they receive at the end of the month from the real estate company they work with and the other features that the normal users are able to make use of.
 
-The application will make use of simulated data. Technologies used: Authentication of users: Firebase Map usage: google maps api Database: Firebase
+The application will make use of simulated data. Technologies used:
+Authentication of users: Firebase,
+Map usage: google maps api,
+Database: Firebase
 
-Current progress of the application: Still to be done: Finacial reports Map Contact us Alerts Favourites
+Current progress of the application: Still to be done: Finacial reports, Contact us, Alerts, Favourites
